@@ -45,8 +45,8 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587  # Use 587 for TLS
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False  # Ensure this is False
-EMAIL_HOST_USER = 'bellokingdavidibukun03@gmail.com'  # Replace with your email
-EMAIL_HOST_PASSWORD = 'vzho mzvt cdcu cqsv'  # Replace with your App Password
+EMAIL_HOST_USER = ' '  # Replace with your email
+EMAIL_HOST_PASSWORD = ''  # Replace with your App Password
 
 INSTALLED_APPS = [
     'django.contrib.admin',
